@@ -2,3 +2,5 @@ streamlit
 pillow
 google.generativeai
 datetime
+pandas
+numpy
